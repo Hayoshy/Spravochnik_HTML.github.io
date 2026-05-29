@@ -81,12 +81,13 @@ link{
     text-align: right;
     padding-right: 8px;
     font-size: 20px;
+    color: #CCCCCD;
 }
 .kolonna_put_k_stranice_links{
     text-decoration: none;
     color: #CCCCCD;
 }
-.Navigation_content{
+.Navigation{
     background-color: #141419;
     padding: 35px;
     border-radius: 7px;
@@ -135,6 +136,7 @@ link{
     flex-direction: column;
 }
 .konec_links{
+    padding-top: 1%;
     display: flex;
     gap: 20px;
 }

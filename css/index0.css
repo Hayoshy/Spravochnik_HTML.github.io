@@ -87,8 +87,7 @@ body{
     flex-direction: column;
 }
 .konec_links{
-    color: #e36e00;
-    text-decoration: none;
+    padding-top: 1%;
     display: flex;
     gap: 20px;
 }
